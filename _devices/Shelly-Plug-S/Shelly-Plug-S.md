@@ -2,7 +2,7 @@
 title: Shelly Plug S
 date-published: 2020-07-13
 type: plug
-standard: uk, us, eu
+standard: eu
 ---
 
 1. TOC
